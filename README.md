@@ -9,6 +9,7 @@ This template uses the following tool versions:
 | Tool | Version |
 | --- | --- |
 | uv | 0.13.* |
+| ruff | 0.17.* |
 
 ## Commands (Not yet implemented)
 
